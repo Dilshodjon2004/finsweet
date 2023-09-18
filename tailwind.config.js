@@ -25,6 +25,8 @@ module.exports = {
         btnTextColorDarkBlue: "#1B1C2A",
         btnTextColorBlue: "#1B1C2B",
         btnTextColorPrimary: "#ffffff",
+        bgOverlay:
+          "linear-gradient(329deg, #1C1E53 -10.96%, rgba(28, 30, 83, 0.42) 103.96%)",
       },
       fontFamily: {
         poppins: ["Poppins", "sans-serif"],

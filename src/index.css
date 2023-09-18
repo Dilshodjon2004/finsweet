@@ -23,3 +23,17 @@
     transform: translateY(0);
   }
 }
+
+
+
+
+.overlay, .overlay-special {
+  background: linear-gradient(329deg, #1C1E53 -10.96%, rgba(28, 30, 83, 0.42) 103.96%);
+}
+.overlay-wrapper:hover .overlay {
+  width: 55%;
+}
+
+.overlay-wrapper:hover .overlay-special {
+  width: 100%;
+}
