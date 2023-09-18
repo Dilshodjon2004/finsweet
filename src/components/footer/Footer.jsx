@@ -29,7 +29,7 @@ const Footer = () => {
             </div>
           </div>
         </div>
-        <div>
+        <div className="md:pt-0 pt-10">
           <h1 className={`${styles.heading2} text-white`}>Lets Talk!</h1>
           <p
             className={`${styles.paragraph2} text-white opacity-80 md:w-[55%] w-full  mt-[14px] mb-[28px]`}

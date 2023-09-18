@@ -17,6 +17,8 @@ export const styles = {
   paragraph2: "font-poppins font-medium text-[16px] leading-[28px]",
   label1: "font-poppins font-medium text-[18px] leading-[32px]",
   label2: "font-poppins font-medium text-[16px] leading-[28px]",
+  btn:
+    "px-[48px] py-[16px] rounded-[40px] text-[18px] font-normal text-btnTextColorDarkBlue",
   btnYellow:
     "bg-yellow px-[48px] py-[16px] rounded-[40px] text-[18px] font-normal text-btnTextColorDarkBlue",
   btnBlue:
