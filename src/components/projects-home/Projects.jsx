@@ -9,7 +9,7 @@ const Projects = () => {
   return (
     <div className={`${styles.container} ${styles.paddingY}`}>
       <div className={`${styles.flexBetween}`}>
-        <h2 className={` sm:${styles.heading4} ss:${styles.heading5}  `}>
+        <h2 className={`${styles.heading4} sm:text-[36px] ss:text-[25px] rs:text-[20px] xs:text-[18px]`}>
           View our projects
         </h2>
         <Link

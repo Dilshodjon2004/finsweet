@@ -12,6 +12,7 @@ module.exports = {
     extend: {
       colors: {
         royalBlue: "#2405F2",
+        iconBlue: "#5239FA",
         bgBlue: "#1C1E53",
         bgLightGrey: "#BBBBCB",
         darkBlue: "#282938",
@@ -34,6 +35,7 @@ module.exports = {
     },
     screens: {
       xs: "280px",
+      rs: "350px",
       ss: "540px",
       sm: "768px",
       md: "1000px",
