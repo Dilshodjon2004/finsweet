@@ -21,6 +21,7 @@ module.exports = {
         tintBlue: "#1C1E53",
         accent: "#EEF4FA",
         paleYellow: "#FCD9801A",
+        paleGrey: "#F4F5F5",
         btnPaleYellow: "#FDE4A6",
         btnPaleBlue: "#535460",
         btnTextColorDarkBlue: "#1B1C2A",
